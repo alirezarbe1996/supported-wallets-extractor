@@ -1,6 +1,6 @@
-# Crypto Wallet Finder — Laravel 11
+# Crypto Wallet Finder — Laravel 12
 
-A Laravel 11 application that fetches cryptocurrency data from CoinMarketCap, stores supported wallets for each coin, and exposes them via a REST API.
+A Laravel 12 application that fetches cryptocurrency data from CoinMarketCap, stores supported wallets for each coin, and exposes them via a REST API.
 
 ---
 

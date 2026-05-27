@@ -7,7 +7,7 @@
     "require": {
         "php": "^8.2",
         "google/cloud-translate": "^1.19",
-        "laravel/framework": "^11.9",
+        "laravel/framework": "^12",
         "laravel/sanctum": "^4.0",
         "laravel/tinker": "^2.9"
     },
