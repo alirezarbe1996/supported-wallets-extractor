@@ -51,12 +51,12 @@ Represents a cryptocurrency.
 
 Represents a cryptocurrency wallet.
 
-| Field     | Type   | Description                   |
-|-----------|--------|-------------------------------|
-| `enName`  | string | English name of the wallet    |
-| `faName`  | string | Persian name (currently same as English) |
-| `icon`    | string | URL to the wallet's 128×128 logo image |
-| `website` | string | Official website URL          |
+| Field     | Type   |
+|-----------|--------|
+| `enName`  | string |
+| `faName`  | string |
+| `icon`    | string |
+| `website` | string |
 
 **Relationship:** Belongs to many `Currency` records via a many-to-many pivot.
 
